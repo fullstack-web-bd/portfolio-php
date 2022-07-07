@@ -1,0 +1,20 @@
+{
+    "name": "akash/portfolio",
+    "description": "My Personal portfolio Website",
+    "type": "project",
+    "require": {
+        "cocur/slugify": "^4.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Akash\\PortfolioApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ManiruzzamanAkash",
+            "email": "manirujjamanakash@gmail.com"
+        }
+    ]
+}
